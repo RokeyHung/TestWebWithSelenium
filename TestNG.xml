@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="main-suite" parallel="false">
+    <test name="LoginTest">
+        <classes>
+            <class name="StartTest.LoginTest"/>
+        </classes>
+    </test>
+    <test name="RegisterTest">
+        <classes>
+            <class name="StartTest.RegisterTest"/>
+        </classes>
+    </test>
+    <test name="RemoveFilm">
+        <classes>
+            <class name="StartTest.RemoveFilm"/>
+        </classes>
+    </test>
+    <test name="LoginTest">
+        <classes>
+            <class name="StartTest.ChangePasswordTest"/>
+        </classes>
+    </test>
+</suite>
